@@ -8,4 +8,5 @@ Determined, Luna scoured the code. At 2 AM, she discovered something eerie—a c
 Tracing its origins, she uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
 "If youre reading this, you have the gift. Fix what must be fixd, Luna. And never stop listening."
 
-The End
+Luna entered vim and couldnt work out how to leave. Many years passed and she never exited vim.
+1000 years later another person found the message. AND THE CURSE OF VIM CONTINUED!!!!
