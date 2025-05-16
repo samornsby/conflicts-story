@@ -8,4 +8,5 @@ Determined, Liam scoured the code. At midnight, he discovered something eerie, a
 Tracing its origins, he uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
 "If you're reading this, you have the gift. Fix what must be fixed, Liam. And never stop listening."
 
-The End
+Liam entered vim and couldnt work out how to leave. Many years passed and she never exited vim.
+1000 years later another person found the message. AND THE CURSE OF VIM CONTINUED!!!!
