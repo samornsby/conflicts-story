@@ -1,8 +1,8 @@
 The Bug Whisperer
 
-Luna had an uncanny gift—she could fix the most baffling software bugs with ease. One night, she faced an impossible error. Logs were empty, engineers were stumped, and the company's AI-driven platform kept crashing.
+Luna had an uncanny gift, she could fix the most baffling software bugs with ease. One night, she faced an impossible error. Logs were empty, engineers were stumped, and the company's AI-driven platform kept crashing.
 
-Determined, Luna scoured the code. At 2 AM, she discovered something eerie—a comment in the program:
+Determined, Luna scoured the code. At 2 AM, she discovered something eerie, a comment in the program:
 "You're looking in the wrong place."
 
 Tracing its origins, she uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
