@@ -2,7 +2,7 @@ The Bug Whisperer
 
 Liam had an uncanny gift, he could fix the most baffling software bugs with ease. One night, he faced an impossible error. Logs were empty, engineers were stumped, and the company's AI-driven platform kept crashing.
 
-Determined, Liam scoured the code. At 2 AM, he discovered something eerie, a comment in the program:
+Determined, Liam scoured the code. At midnight, he discovered something eerie, a comment in the program:
 "You're looking in the wrong place."
 
 Tracing its origins, he uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
