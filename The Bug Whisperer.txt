@@ -1,11 +1,11 @@
 The Bug Whisperer
 
-Luna had an uncanny gift, she could fix the most baffling software bugs with ease. One night, she faced an impossible error. Logs were empty, engineers were stumped, and the company's AI-driven platform kept crashing.
+Liam had an uncanny gift, he could fix the most baffling software bugs with ease. One night, he faced an impossible error. Logs were empty, engineers were stumped, and the company's AI-driven platform kept crashing.
 
-Determined, Luna scoured the code. At 2 AM, she discovered something eerie, a comment in the program:
+Determined, Liam scoured the code. At 2 AM, he discovered something eerie, a comment in the program:
 "You're looking in the wrong place."
 
-Tracing its origins, she uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
-"If youre reading this, you have the gift. Fix what must be fixd, Luna. And never stop listening."
+Tracing its origins, he uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
+"If youre reading this, you have the gift. Fix what must be fixd, Liam. And never stop listening."
 
 The End
